@@ -1,6 +1,7 @@
+# Epsilon Protogen
+
 ------------------------------------------
-Coela Can't! Epsilon Protogen V1
-Document Version: V1.0
+Coela Can't! Epsilon Protogen
 ------------------------------------------
 
 Included are all of the STL files pre-oriented and ready for printing. But what about the visor? Well, two versions of the vacuum forming buck are included as well so you have the ability to make your own PETG visors. Don't forget that the 3D STEP and IGES CAD files are included, so if the design is not exactly what you want then you have the ability to modify and tweak it!
